@@ -1,6 +1,6 @@
 # Dukore's *Dramatic Theory and Criticism* Contents
 
-_Bernard F. Dukore's extremely useful *Dramatic Theory and Criticism* is now out of print. Many of his sources, however, are themselves available freely online in other formats. This project begins as an attempt to collect some of Dukore's most essential sources, though without any of the excellent commentary he provides and without selecting excerpts from those sources._
+_Bernard F. Dukore's extremely useful *Dramatic Theory and Criticism* is now out of print. Many of his sources, however, are themselves available freely online in other formats. This project begins as an attempt to collect some of Dukore's most essential sources, though without any of the excellent commentary he provides and selecting only the most general excerpts from those sources related to dramatic art._
 
 - Ancient Greece and Rome
     - The Republic / Plato
@@ -27,7 +27,7 @@ _Bernard F. Dukore's extremely useful *Dramatic Theory and Criticism* is now out
     - Poetics / Julius Caesar Scaliger
     - On Aristotle's Poetics / Lodovico Castelvetro
     - Compendium of tragicomic poetry / Giovanni Battista Guarini
-- Elizabethan and Jacobian England and Spain
+- Elizabethan and Jacobean England and Spain
     - A Treatise against dicing, dancing, plays and interludes / John Northbrooke
     - The school of abuse / Stephen Gosson
     - A defence of poetry, music and stage plays / Thomas Lodge
@@ -43,7 +43,7 @@ _Bernard F. Dukore's extremely useful *Dramatic Theory and Criticism* is now out
     - The new art of writing plays / Lope de Vega
     - Preface to the faithful shepherdess / John Fletcher
     - Preface to the white devil / John Webster.
-- Seventeenth and Eighteenth century France
+- Seventeenth and Eighteenth Century France
     - Observations on the Cid / Georges de Scudéry
     - Apologetic letter / Pierre Corneille
     - The Opinions of the French Academy / the French Academy
